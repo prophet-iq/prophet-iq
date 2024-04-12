@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### I am Prophet, or Matt. 10 Year Navy Veteran and aspiring developer.
 ### 
-###-🌱 I’m currently learning Python, JS
-###- 🔭 I’m currently working on projects to solidify my skillset
-###- 📫 How to reach me: showalter.t.matthew@gmail.com
+### 🌱 I’m currently learning Python, JS
+### 🔭 I’m currently working on projects to solidify my skillset
+### 📫 How to reach me: showalter.t.matthew@gmail.com
 <!--
 **prophet-iq/prophet-iq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
